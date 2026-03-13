@@ -1,4 +1,4 @@
-# 📊 Customer Cohort Analysis and RFM Segmentation
+# Customer Cohort Analysis and RFM Segmentation
 
 A cohort analysis is widely used to understand how specific groups behave overtime. Instead of looking at all users as a single unit, you break them into related groups (cohorts) to see if their behavior improves or declines. 
 
@@ -8,7 +8,7 @@ These two techniques combined can provide a strong background to build strategie
 
 ---
 
-## 📈 Objectives
+## Objectives
 
 The goal of this project is to analyze customer purchasing behavior and answer questions such as:
 
@@ -17,7 +17,7 @@ The goal of this project is to analyze customer purchasing behavior and answer q
   
 ---
 
-## 🔬 Techniques Used
+## Techniques Used
 
 ### Cohort Analysis
 
@@ -45,7 +45,7 @@ These segments help businesses design targeted marketing strategies.
 
 ---
 
-## 📊 Visualizations
+## Visualizations
 
 The project includes two visualizations:
 
@@ -57,7 +57,7 @@ Displays the number of customers in each segment.
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - Python
 - pandas
@@ -67,7 +67,7 @@ Displays the number of customers in each segment.
 - Jupyter Notebook
 
 ---
-## 🖼️ Results 
+## Results 
 
 The analysis produced the following visualizations.
 
@@ -89,7 +89,7 @@ The following chart displays the distribution of customers across the RFM segmen
 
 ---
 
-## 💡 Insights 
+## Insights 
 
 Since the dataset used in this project was randomly generated, it does not reflect realistic customer behavior over time. Therefore, the patterns observed in the visualizations should be interpreted only as a demonstration of the analytical workflow rather than meaningful business insights.
 
@@ -99,7 +99,7 @@ As a next step, this methodology could be applied to real-world datasets in orde
 
 ---
 
-## 🧠 Challenges and Learning
+## Challenges and Learning
 
 During the development of this project, the following skills were practiced:
 
@@ -112,7 +112,7 @@ During the development of this project, the following skills were practiced:
 
 ---
 
-## ▶️ How to Run the Project
+## How to Run the Project
 
 Clone the repository:
 
